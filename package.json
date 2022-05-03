@@ -1,7 +1,7 @@
 {
-    "name": "ZyCute",
-    "version": "1.2.14",
-    "description": "File Bot được chỉnh sửa bởi Hoài Thanh",
+    "name": "Mirai Project",
+    "version": "1.2.15",
+    "description": "Mirai Project được điều hành bởi Hoài Thanh",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
